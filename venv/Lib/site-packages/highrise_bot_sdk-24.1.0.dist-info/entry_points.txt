@@ -1,0 +1,3 @@
+[console_scripts]
+highrise=highrise.__main__:run
+
