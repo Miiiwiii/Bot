@@ -766,7 +766,7 @@ class xenoichi(BaseBot):
         icecast_port = 80
         mount_point = "/myradio01"
         username = "Jack_Cole"
-        password = "021xenogamerzx992"
+        password = ""
         icecast_url = f"icecast://{username}:{password}@{icecast_server}:{icecast_port}{mount_point}"
 
         with ThreadPoolExecutor() as executor:
