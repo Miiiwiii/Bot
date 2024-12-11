@@ -9,7 +9,7 @@ bot_file_name = "musicbot"
 bot_class_name = "xenoichi"
 room_id = "6734a2767752b4b0c66f796a"
 #65c56b54ac42f2f98821e501
-bot_token = "5befe10e60c41182eb4718c03093445e3d92fe674d1a107a2f21b4b478d5557d"
+bot_token = ""
 
 def terminate_ffmpeg_processes():
     for proc in psutil.process_iter(['pid', 'name']):
